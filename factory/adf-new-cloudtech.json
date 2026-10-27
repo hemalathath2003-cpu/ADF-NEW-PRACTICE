@@ -1,0 +1,15 @@
+{
+	"name": "adf-new-cloudtech",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98c151d1-2827-449e-90dd-2cca6fcf4d64",
+		"tenantId": "57a88a74-8720-48a8-829b-a7ec6636bb40"
+	}
+}
